@@ -19,5 +19,12 @@ public class Git {
 
         /*2.成功了没有*/
         System.out.println("push-test");
+
+
+       
+                /*3.成功了没有*/
+        System.out.println("pull-test");
+
+
     }
 }
