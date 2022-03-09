@@ -12,5 +12,12 @@ public class Git {
         System.out.println("");
         /*1.不知道为什么，不可以上传吧*/
         System.out.println("山传吗");
+
+
+
+
+
+        /*2.成功了没有*/
+        System.out.println("push-test");
     }
 }
