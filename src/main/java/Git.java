@@ -17,20 +17,6 @@ public class Git {
 
 
 
-        /*2.成功了没有*/
-        System.out.println("push-test");
-
-
-       
-                /*3.成功了没有*/
-        System.out.println("pull-test");
-
-
-
-        /*4.这个是一个*/
-        System.out.println("这是第四个");
-        /*5.第五个了*/
-        System.out.println("这是第五个版本的");
 
 
     }
